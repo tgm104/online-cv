@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Matias Nevaranta
-    tagline: Full Plebian
+    tagline: Full-time Pleb
     avatar: skull.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -40,50 +40,48 @@ sidebar:
         level: Basics
 
     interests:
-      - item: Gym, American football, road cycling 
-        link:
-
-      - item: Motorbikes, cars
-        link:
-
-      - item: Japanese language and culture
+      - item: Gym, american football, road cycling, cars, motorbikes, heavy-duty, trucks, japanese language and culture,
+              unix, internationalization, analytics, future of education
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Hi, hello, and welcome. My name is Matias Nevaranta and I am a full-time plebian. I have mostly studied IT through the years
+      Hi, hello, and welcome. My name is Matias Nevaranta and I am a full-time pleb. I have mostly studied IT through the years
       but now I am leaning towards business since I find it more promising in terms of career building. As an IT engineer I have a
       good knowledge of IT from radio networks to application interfaces. I also like cars and motorbikes, have had a few of each.
       I have done various jobs before ranging from IT engineer to secretary to construction worker to analytics, so work 
       experience I have. Currently I am studying for my second degree (BBA) and working two jobs, as a project worker in Learning
       Analytics and as an executive area supervisor.
 
-      As an IT guy I have several computers; 1 is running dual boot W7/W10, 2 W7 and 1 Ubuntu Budgie. As I live in a remote location I also
-      have three UPS power supplies (~7kVA) backed by a diesel powered aggregator in case of blackouts. 
+      As an IT guy I have several computers; one is running dual boot W7/W10, two W7 and one Ubuntu Budgie. As I live in a remote location I also
+      have three UPS power supplies (~7kVA) backed by a diesel powered aggregator in case of blackouts. I have in total seven computers
+      the oldest of which is still a fully functional Compaq Armada laptop that shipped with W95. I also have been collecting mobile
+      devices and I have 41 of them ranging from iPhone to an old Nokia 6600 to an even older Nokia 2010.
+      
+      As a motor vehicle enthusiast I have two cars; a 2014 Volvo V40 Cross Country and a 1998 Toyota Corolla (E11). I also used to
+      have a motorbike; last one was a 2004 Honda CBR Super Blackbird. 
 
 education:
+    - degree: BBA in Business Management
+      university: Satakunta University of Applied Sciences
+      time: 2018-2020
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+
+          - Bullet point
+          
+    - degree: BBA in International Business
+      university: Jyväskylä University of Applied Sciences
+      time: 2017-2018
+      details: |
+      
     - degree: BSc in Computer Engineering
       university: Satakunta University of Applied Sciences
       time: 2011 - 2016
       details: |
-        275 ECTS credits. Main in radio communications.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - OpenSAMK2014: Wiretapping demo
 
 experiences:
     - role: Lead Developer
