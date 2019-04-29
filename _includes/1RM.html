@@ -1,0 +1,22 @@
+{% assign 1RM = site.data.data.sidebar.1RM %}
+{% if 1RM %}
+<div class="1RM-container container-block">
+
+  <h2 class="container-block-title">
+    One Rep Max
+  </h2>
+
+  <ul class="list-unstyled 1RM-list">
+    {% for orm in 1RM %}
+
+      {% if orm.link %}
+      <li><a href="{{ orm.link }}">{{ orm.item }}</a></li>
+      {% else %}
+      <li>{{ orm.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//1RM-->
+{% endif %}
