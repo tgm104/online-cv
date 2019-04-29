@@ -40,9 +40,11 @@ sidebar:
         level: Basics
 
     interests:
-      - item: Gym, american football, road cycling, cars, motorbikes, heavy-duty, trucks, japanese language and culture,
+      - item: gym, american football, road cycling, cars, motorbikes, heavy-duty, trucks, japanese language and culture,
               unix, internationalization, analytics, future of education
         link:
+        
+    1RM:
 
 career-profile:
     title: Career Profile
