@@ -152,6 +152,7 @@ experiences:
         checking the tickets and calling the customers in the morning, being at customer companys premises
         during the day and finally closing and documenting the tickets in the evening. It was nice.
         
+        
         Beyond 2013 I have worked twice in two different hospitals as a secretary, as a salesman in a general store, 
         mediatechnician at a linguistics company and even as construction worker. I have also done my fair share of 
         physical labour and can drive a semi, a tractor, a loader and an excavator since my family is in the business.
@@ -163,13 +164,13 @@ projects:
       I have a done a few projects either through work or leisure. They are listed below:
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Moodle Portal
+        link: "moodle.samk.fi"
+        tagline: "The portal website for three LMS used by Satakunta UAS."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Moodle3 LMS
+        link: "moodle3.samk.fi"
+        tagline: "The new LMS made by me which is unaccessible without proper credentials (will redirect you to the portal)."
 
       - title: Tempo
         link: "#"
