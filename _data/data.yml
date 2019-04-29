@@ -76,7 +76,7 @@ education:
       time: 2017-2018
       details: |
       
-    - degree: BSc in Computer Engineering
+    - degree: BEng in Computer Engineering
       university: Satakunta University of Applied Sciences
       time: 2011 - 2016
       details: |
@@ -84,48 +84,64 @@ education:
           - OpenSAMK2014: Wiretapping demo
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Project Worker
+      time: 2019 - Present
+      company: Satakunta UAS, Pori
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        My current full-time position is project worker at Satakunta University of Applied Sciences.
+        The project I am working in is based on learning analytics and their application. The project
+        is a national level undertaking that has members from every university of applied sciences in it.
+        The goal is to create standards for the use of analytics in education through application.
+        My task is testing and integration of analytics onto our learning management platforms and advising
+        on the technical specifications. This work has expanded my IT skills and also given me more
+        motivation towards IT.
 
           - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          
+    - role: Area Supervisor
+      time: 2013 - Present
+      company: Autoparkki Norden Oy, Helsinki
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        This has been my part-time position for over six years now. I work as a supervisor whenever I am
+        needed or have time to spare. Initially I began working for AP to fund my studies but since then
+        I have stayed because I have a very good superior here. My work here mostly consists of maintenance
+        these days but I will occasionally do metermaid duties as well. I did my engineers thesis for the 
+        global group this company belongs to.
+        
+        
+    - role: Final Documentation Controller
+      time: 2018 - 2018
+      company: Areva GmbH, Olkiluoto
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I worked in the construction site of TVO's nuclear power plant OL3 under Areva. My task at the plant
+        was to check the documentation of electrical systems and designs together with the QI team. The
+        documentation cycle was very refined and confined at the plant so I learned very good and punctual 
+        organisational skills while there. Also the official language of the site was english so it was a
+        good opportunity to brush up my language skills.
 
-          - Bullet point
-          - Bullet point
+    - role: Project Worker
+      time: 2018 - 2018
+      company: Satakunta UAS, Pori
+      details: |
+        Before working at the power plant I got a temporary position to help the education services do a
+        LMS migration project. My task was to setup the new LMS system, test and debug it, and eventually
+        open it to production. I designed and created the customized theme for the LMS and the portal site
+        which through the SSO worked for the signin. Once published to production I lead the in-house training
+        for the new system and finally documented the project. I learned tons about projects and documentation
+        here while also expanding my IT skills through work.
+        
+    - role: Advanced IT support
+      time: 2013 - 2015
+      company: Relacom Finland Oy, Tampere
+      details: |
+        During my studies I was offered a job as a mobile IT support which I accepted gladly. Relacom is a
+        telecommunications corporate giant that does mostly outsourced IT and networking related contracts. I
+        was a mobile IT technician who moved all around the province and worked mainly at the different
+        companies in Rauma, Pori and Tampere. I got my advanced certification later and with it I could apply
+        for engineer level support tasks as well. Through Relacom I learned how to work independently on a
+        daily basis since I practically never visited my office at Ylöjärvi. My daily routine consisted of me
+        checking the tickets and calling the customers in the morning, being at customer companys premises
+        during the day and finally closing and documenting the tickets in the evening. It was nice.
 
 projects:
     title: Projects
