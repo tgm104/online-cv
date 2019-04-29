@@ -170,7 +170,7 @@ projects:
 
       - title: Moodle3 LMS
         link: "moodle3.samk.fi"
-        tagline: "The new LMS made by me which is unaccessible without proper credentials (will redirect you to the portal)."
+        tagline: "The new LMS setup by me which is unaccessible without proper credentials (will redirect you to the portal)."
 
       - title: Tempo
         link: "#"
@@ -187,22 +187,16 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      These are my publications. Only a few here:
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Oppiminen näkyväksi analytiikan avulla (apoa.samk.fi)
+        authors: Lempinen, K. & Nevaranta, M.
+        conference: APOA-hanke, 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Radio networks in difficult locations"
+        authors: Nevaranta M.
+        conference: Satakunta UAS, 2016
 
 skills:
     title: Skills &amp; Proficiency
