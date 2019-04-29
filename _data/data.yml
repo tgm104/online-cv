@@ -47,7 +47,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hi, hello, and welcome. My name is Matias Nevaranta and I am a full-time pleb. I have mostly studied IT through the years
+      Hi, hello, and welcome. My name is Matias Nevaranta and I am a full-time pleb. Pleb is latin meaning plebeian which means
+      commoner. I have mostly studied IT through the years
       but now I am leaning towards business since I find it more promising in terms of career building. As an IT engineer I have a
       good knowledge of IT from radio networks to application interfaces. I also like cars and motorbikes, have had a few of each.
       I have done various jobs before ranging from IT engineer to secretary to construction worker to analytics, so work 
@@ -67,9 +68,6 @@ education:
       university: Satakunta University of Applied Sciences
       time: 2018-2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-
-          - Bullet point
           
     - degree: BBA in International Business
       university: Jyväskylä University of Applied Sciences
@@ -80,8 +78,6 @@ education:
       university: Satakunta University of Applied Sciences
       time: 2011 - 2016
       details: |
-
-          - OpenSAMK2014: Wiretapping demo
 
 experiences:
     - role: Project Worker
@@ -95,8 +91,7 @@ experiences:
         My task is testing and integration of analytics onto our learning management platforms and advising
         on the technical specifications. This work has expanded my IT skills and also given me more
         motivation towards IT.
-
-          - Bullet point
+       
           
     - role: Area Supervisor
       time: 2013 - Present
@@ -119,6 +114,7 @@ experiences:
         organisational skills while there. Also the official language of the site was english so it was a
         good opportunity to brush up my language skills.
 
+
     - role: Project Worker
       time: 2018 - 2018
       company: Satakunta UAS, Pori
@@ -129,6 +125,20 @@ experiences:
         which through the SSO worked for the signin. Once published to production I lead the in-house training
         for the new system and finally documented the project. I learned tons about projects and documentation
         here while also expanding my IT skills through work.
+      
+    - role: ICT Technician
+      time: 2016 - 2017
+      company: Satakunta UAS, Pori
+      details: |
+        My first job at Satakunta University of Applied Sciences. The task was simple; to build the network
+        for the new campus which was built for the university. This meant the whole works; LAN, WLAN, surveillance
+        systems, distribution stations, system monitoring, server room with hot and cold tunneling, electrics and
+        backups, even all the projectors and speakers. It was a massive project and we began it as a four member
+        team. Later I got my own team to lead and do installations with. Also because I had a background in radio
+        communications I had the lead in the WLAN planning. 140 wireless routers were installed based on the data
+        I received from scanning the building for optimal positioning. The routers were controlled by two central
+        controllers which were connected to the monitoring room. The capacity for the WLAN was calculated to
+        withstand over 5000 simultaneous users with intelligent cell distribution among the access points. 
         
     - role: Advanced IT support
       time: 2013 - 2015
@@ -146,9 +156,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I have a done a few projects either through work or leisure. They are listed below:
 
     assignments:
       - title: Velocity
