@@ -10,15 +10,15 @@
     {{ proficiency.title }}
   </h2>
 
-  <div class="proficiencyset">
+  <div class="skillset">
 
-    {% for skill2 in proficiency.toolset %}
+    {% for skill in proficiency.toolset %}
     <div class="item">
 
-      <h3 class="level-title">{{ skill2.name }}</h3>
+      <h3 class="level-title">{{ skill.name }}</h3>
 
       <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill2.level }}">
+        <div class="level-bar-inner" data-level="{{ skill.level }}">
         </div>
       </div><!--//level-bar-->
 
