@@ -1,0 +1,31 @@
+{% assign proficiency = site.data.data.proficiency %}
+{% if proficiency %}
+<section class="proficiency-section section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ proficiency.title }}
+  </h2>
+
+  <div class="proficiencyset">
+
+    {% for skill in proficiency.toolset %}
+    <div class="item">
+
+      <h3 class="level-title">{{ skill.name }}</h3>
+
+      <div class="level-bar">
+        <div class="level-bar-inner" data-level="{{ skill.level }}">
+        </div>
+      </div><!--//level-bar-->
+
+    </div><!--//item-->
+    {% endfor %}
+
+  </div>
+
+</section><!--//proficiency-section-->
+{% endif %}
