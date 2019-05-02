@@ -190,9 +190,12 @@ skills:
     toolset:
       - name: Git & GitKraken
         level: 40%
+        
+      - name: Google Analytics
+        level: 65%
     
       - name: UNIX (Budgie, CentOS)
-        level: 65%
+        level: 75%
 
       - name: Javascript
         level: 50%
