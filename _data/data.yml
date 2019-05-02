@@ -65,7 +65,7 @@ career-profile:
 education:
     - degree: BBA in Business Management
       university: Satakunta University of Applied Sciences
-      time: 2017-2020
+      time: 2017 - 2020
       details: |
       
     - degree: BEng in Computer Engineering
@@ -184,8 +184,15 @@ publications:
         authors: Nevaranta M.
         conference: Satakunta UAS, 2016
 
+proficiency:
+    title: Proficiency
+
+    toolset:
+      - name: Test2
+        level: 80%
+
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: Git & GitKraken
