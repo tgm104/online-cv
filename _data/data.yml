@@ -190,13 +190,19 @@ proficiency:
     title: Proficiency
 
     toolset:
-      - name: Test2
-        level: 80%
+      - name: Learning Analytics
+        level: 85%
+        
+      - name: Lear
+        level: 85%
 
 skills:
-    title: Skills
+    title: IT Skills
 
     toolset:
+      - name: Amazon AWS
+        level: 35%
+        
       - name: Git & GitKraken
         level: 40%
         
@@ -207,7 +213,7 @@ skills:
         level: 75%
 
       - name: Javascript
-        level: 50%
+        level: 55%
 
       - name: HTML5 & CSS
         level: 85%
@@ -219,7 +225,7 @@ skills:
         level: 70%
         
       - name: AutoCAD
-        level: 60%
+        level: 50%
 
 footer: >
     &copy; tgm104 2019 - Bootstrap design made with <i class="fas fa-heart"></i> by Xiaoying Riley
