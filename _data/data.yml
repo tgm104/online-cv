@@ -193,8 +193,11 @@ proficiency:
       - name: Learning Analytics
         level: 85%
         
-      - name: Lear
-        level: 85%
+      - name: Project Management
+        level: 90%
+        
+      - name: Virtual Teams
+        level: 100%
 
 skills:
     title: IT Skills
@@ -212,7 +215,7 @@ skills:
       - name: UNIX (Budgie, Cent)
         level: 75%
 
-      - name: Javascript
+      - name: Javascript & NodeJS
         level: 55%
 
       - name: HTML5 & CSS
@@ -226,6 +229,12 @@ skills:
         
       - name: AutoCAD
         level: 50%
+        
+      - name: LMS (Moodle)
+        level: 100%
+        
+      - name: WordPress
+        level: 95%
 
 footer: >
     &copy; tgm104 2019 - Bootstrap design made with <i class="fas fa-heart"></i> by Xiaoying Riley
