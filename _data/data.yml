@@ -20,19 +20,19 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Finnish
+      - idiom: Finnish / フィンランド語
         level: Native
         
-      - idiom: Swedish
+      - idiom: Swedish / スウェーデン語
         level: Professional
         
-      - idiom: English
+      - idiom: English / 英語
         level: Fluent
 
-      - idiom: Japanese
+      - idiom: Japanese / 日本語
         level: Conversational
         
-      - idiom: Chinese
+      - idiom: Chinese / 中国語
         level: Basics
 
     interests:
