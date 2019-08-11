@@ -53,25 +53,25 @@ career-profile:
       ようこそ！私はただの一般人。今私は勉強します働きます（二つの仕事）。私は九月から大阪市に住みます、アルバイトを探します。私のラインはtgm104。
 
 education:
-    - degree: BBA in Business Management (学士号、ビジネス）
+    - degree: BBA in Business Management　(学士号、ビジネス）
       university: Satakunta University of Applied Sciences
       time: 2017 - 2020
       details: |
       
-    - degree: BEng in Computer Engineering　(学士号、エンジニア）
+    - degree: BEng in Computer Engineering　(学士号、技師）
       university: Satakunta University of Applied Sciences
       time: 2011 - 2016
       details: |
 
 experiences:
-    - role: Project Worker
+    - role: Project Worker（プロジェクトワーカー）
       time: 2019 - Present
       company: Satakunta UAS, Pori
       details: |
         My current full-time position at Satakunta University of Applied Sciences. The project I am working in is based on learning analytics and their application.
        
           
-    - role: Area Supervisor
+    - role: Area Supervisor（エリアスーパーバイザー）
       time: 2013 - Present
       company: Autoparkki Norden Oy, Helsinki
       details: |
@@ -79,14 +79,14 @@ experiences:
         needed or have time to spare.
         
         
-    - role: Final Documentation Controller
+    - role: Final Documentation Controller（統括者）
       time: 2018 - 2018
       company: Areva GmbH, Olkiluoto
       details: |
         I worked in the construction site of TVO's nuclear power plant OL3 under Areva.
 
 
-    - role: Project Worker
+    - role: Project Worker（プロジェクトワーカー）
       time: 2018 - 2018
       company: Satakunta UAS, Pori
       details: |
@@ -94,7 +94,7 @@ experiences:
         LMS migration project.
       
       
-    - role: ICT Technician
+    - role: ICT Technician（技師）
       time: 2016 - 2017
       company: Satakunta UAS, Pori
       details: |
@@ -104,7 +104,7 @@ experiences:
         backups, even all the projectors and speakers. 
         
         
-    - role: Advanced IT support
+    - role: Advanced IT support（技師）
       time: 2013 - 2015
       company: Relacom Finland Oy, Tampere
       details: |
