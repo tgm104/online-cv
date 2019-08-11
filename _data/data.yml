@@ -37,7 +37,7 @@ sidebar:
 
     interests:
       - item: gym, american football, road cycling, cars, motorbikes, heavy-duty, trucks, japanese language and culture,
-              unix, asia, analytics, future of education, dc comics, vr, food :)
+              unix, asia, analytics, learning analytics, future of education, dc comics :)
         link:
         
     1RM:
@@ -46,29 +46,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hi, hello, and welcome. My name is Matias Nevaranta and I am a full-time pleb. Pleb is latin meaning plebeian which means
-      commoner. I have mostly studied IT through the years
-      but now I am leaning towards business since I find it more promising in terms of career building. As an IT engineer I have a
-      good knowledge of IT from radio networks to application interfaces. I also like cars and motorbikes, have had a few of each.
-      I have done various jobs before ranging from IT engineer to construction worker so work 
-      experience, that I have. Currently I am studying for my second degree (BBA) and working two jobs, as a project worker in learning
+      Welcome! I am a full-time pleb. Pleb is latin meaning plebeian which means
+      commoner. Currently I am studying for my second degree (BBA) and working two jobs, as a project worker in learning
       analytics and as an area supervisor. I try to maintain a healthy lifestyle outside of work and study.
-
-      As an IT guy I have several computers; one is running dual boot W7/10, two W7 and one Ubuntu Budgie. As I live in a remote location I also
-      have three UPS power supplies (~7kVA) backed by a diesel powered generator in case of blackouts. I have in total seven computers
-      the oldest of which is still a fully functional Compaq Armada laptop that shipped with W95. I also have been collecting mobile
-      devices and have 41 of them ranging from iPhone 5 to an old Nokia 6600 to an even older Nokia 2010.
       
-      As a motor vehicle enthusiast I have two cars; a 2014 Volvo V40 Cross Country and a 1998 Toyota Corolla (E11). I also used to
-      have a motorbike; last one was a 2004 Honda CBR XX Super Blackbird. The Volvo is a five cylinder D3, love the sound.
+      ようこそ！私はただの一般人。今私は勉強します働きます（二つの仕事）。私は九月から大阪市に住みます、アルバイトを探します。私のラインはtgm104。
 
 education:
-    - degree: BBA in Business Management
+    - degree: BBA in Business Management (学士号、ビジネス）
       university: Satakunta University of Applied Sciences
       time: 2017 - 2020
       details: |
       
-    - degree: BEng in Computer Engineering
+    - degree: BEng in Computer Engineering　(学士号、エンジニア）
       university: Satakunta University of Applied Sciences
       time: 2011 - 2016
       details: |
@@ -78,13 +68,7 @@ experiences:
       time: 2019 - Present
       company: Satakunta UAS, Pori
       details: |
-        My current full-time position is project worker at Satakunta University of Applied Sciences.
-        The project I am working in is based on learning analytics and their application. The project
-        is a national level undertaking that has members from every university of applied sciences in it.
-        The goal is to create standards for the use of analytics in education through application.
-        My task is testing and integration of analytics onto our learning management platforms and advising
-        on the technical specifications. This work has expanded my IT skills and also given me more
-        motivation towards IT.
+        My current full-time position at Satakunta University of Applied Sciences. The project I am working in is based on learning analytics and their application.
        
           
     - role: Area Supervisor
@@ -92,21 +76,14 @@ experiences:
       company: Autoparkki Norden Oy, Helsinki
       details: |
         This has been my part-time position for over six years now. I work as a supervisor whenever I am
-        needed or have time to spare. Initially I began working for AP to fund my studies but since then
-        I have stayed because I have a very good superior here. My work here mostly consists of maintenance
-        these days but I will occasionally do metermaid duties as well. I did my engineers thesis for the 
-        global group this company belongs to.
+        needed or have time to spare.
         
         
     - role: Final Documentation Controller
       time: 2018 - 2018
       company: Areva GmbH, Olkiluoto
       details: |
-        I worked in the construction site of TVO's nuclear power plant OL3 under Areva. My task at the plant
-        was to check the documentation of electrical systems and designs together with the QI team. The
-        documentation cycle was very refined and confined at the plant so I learned very good and punctual 
-        organisational skills while there. Also the official language of the site was english so it was a
-        good opportunity to brush up my language skills.
+        I worked in the construction site of TVO's nuclear power plant OL3 under Areva.
 
 
     - role: Project Worker
@@ -114,11 +91,8 @@ experiences:
       company: Satakunta UAS, Pori
       details: |
         Before working at the power plant I got a temporary position to help the education services do a
-        LMS migration project. My task was to setup the new LMS system, test and debug it, and eventually
-        open it to production. I designed and created the customized theme for the LMS and the portal site
-        which through the SSO worked for the signin. Once published to production I lead the in-house training
-        for the new system and finally documented the project. I learned tons about projects and documentation
-        here while also expanding my IT skills through work.
+        LMS migration project.
+      
       
     - role: ICT Technician
       time: 2016 - 2017
@@ -127,33 +101,23 @@ experiences:
         My first job at Satakunta University of Applied Sciences. The task was simple; to build the network
         for the new campus which was built for the university. This meant the whole works; LAN, WLAN, surveillance
         systems, distribution stations, system monitoring, server room with hot and cold tunneling, electrics and
-        backups, even all the projectors and speakers. It was a massive project and we began it as a four member
-        team. Later I got my own team to lead and do installations with. Also because I had a background in radio
-        communications I had the lead in the WLAN planning. 140 wireless routers were installed based on the data
-        I received from scanning the building for optimal positioning. The routers were controlled by two central
-        controllers which were connected to the monitoring room. The capacity for the WLAN was calculated to
-        withstand over 5000 simultaneous users with intelligent cell distribution among the access points. 
+        backups, even all the projectors and speakers. 
+        
         
     - role: Advanced IT support
       time: 2013 - 2015
       company: Relacom Finland Oy, Tampere
       details: |
         During my studies I was offered a job as a mobile IT support which I accepted gladly. Relacom is a
-        telecommunications corporate giant that does mostly outsourced IT and networking related contracts. I
-        was a mobile IT technician who moved all around the province and worked mainly at the different
-        companies in Rauma, Pori and Tampere. I got my advanced certification later and with it I could apply
-        for engineer level support tasks as well. Through Relacom I learned how to work independently on a
-        daily basis since I practically never visited my office at Ylöjärvi. My daily routine consisted of me
-        checking the tickets and calling the customers in the morning, being at customer companys premises
-        during the day and finally closing and documenting the tickets in the evening. It was nice.
+        telecommunications corporate giant that does mostly outsourced IT and networking related contracts.
+        
         
     - role: Beyond 2013 &amp; Misc
       details: |
-        Beyond 2013 I have worked twice in two different hospitals as a secretary, as a salesman in a general store, 
-        mediatechnician at a linguistics company and even as construction worker. I have also done my fair share of 
+        Beyond 2013 I have worked in two different hospitals as a secretary, a salesman in a general store, 
+        mediatechnician at a linguistics company and even as a construction worker. I have also done my fair share of 
         physical labour and can drive a semi, a tractor, a loader and an excavator since my family is in the business.
-        I have done two facade renovations voluntarily and been a part of the local voluntary fire department. During my 
-        engineer studies I studied construction engineering for a year in 2013-2014 and during my BBA studies I studied IB
+        During my engineer studies I studied construction engineering for a year in 2013-2014 and during my BBA studies I studied IB
         in Jyväskylä University of Applied Sciences for my first year.
 
 projects:
@@ -162,6 +126,11 @@ projects:
       I have a done a few projects either through work or leisure. They are listed below:
 
     assignments:
+    
+      - title: DocuPortal
+        link: "docuportal.samk.fi"
+        tagline: "A renewed and better version of the previous Moodle Portal, containing all systems link jumpers and better mobile support."
+        
       - title: Moodle Portal
         link: "moodle.samk.fi"
         tagline: "The portal website for the three LMS used by Satakunta UAS. The middle link leads to Moodle3. The portal is also
@@ -171,18 +140,26 @@ projects:
         link: "moodle3.samk.fi"
         tagline: "The new LMS setup by me which is unaccessible without proper credentials (will redirect you to the portal). The 
         credentials are provided by a nationally governed IAM IdP-server via SAML2 protocol."
+        
 
 publications:
     title: Publications
     intro: |
-      These are my publications. Only a few here:
 
     papers:
+      - title: Insights on the Finnish field of Learning Analytics
+        authors: Nevaranta, M., Lempinen, K. & Dr. Kaila, E.
+        conference: Asian Conference for Education, Tokyo, 2019
+    
+      - title: APOA vai apua? Analytiikan mahdollisuudet ja uhat
+        authors: Lempinen, K. & Nevaranta, M.
+        conference: SAMK-SeAMK Research Forum, 2019
+
       - title: Oppiminen näkyväksi analytiikan avulla (apoa.samk.fi)
         authors: Lempinen, K. & Nevaranta, M.
         conference: APOA-hanke, 2019
 
-      - title: "Radio networks in difficult locations"
+      - title: Radio networks in difficult locations
         authors: Nevaranta M.
         conference: Satakunta UAS, 2016
 
@@ -191,7 +168,7 @@ proficiency:
 
     toolset:
       - name: Learning Analytics
-        level: 85%
+        level: 90%
         
       - name: Project Management
         level: 90%
@@ -210,13 +187,13 @@ skills:
         level: 68%
         
       - name: Google Analytics
-        level: 65%
+        level: 70%
     
       - name: UNIX (Budgie, Cent)
         level: 75%
 
       - name: Javascript & NodeJS
-        level: 55%
+        level: 50%
 
       - name: HTML5 & CSS
         level: 85%
@@ -225,7 +202,7 @@ skills:
         level: 45%
 
       - name: Krita & Photoshop
-        level: 70%
+        level: 74%
         
       - name: AutoCAD
         level: 50%
