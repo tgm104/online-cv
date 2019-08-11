@@ -123,12 +123,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      I have a done a few projects either through work or leisure. They are listed below:
 
     assignments:
     
       - title: DocuPortal
-        link: "docuportal.samk.fi"
+        link: "https://docuportal.samk.fi"
         tagline: "A renewed and better version of the previous Moodle Portal, containing all systems link jumpers and better mobile support."
         
       - title: Moodle Portal
