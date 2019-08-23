@@ -30,7 +30,7 @@ sidebar:
         level: Fluent
 
       - idiom: Japanese / 日本語
-        level: Conversational
+        level: Satisfactory
         
       - idiom: Chinese / 中国語
         level: Basics
@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Welcome! I am a full-time pleb. Pleb is latin meaning plebeian which means
+      Welcome! I am a full-time pleb :). Pleb is latin meaning plebeian which means
       commoner. Currently I am studying for my second degree (BBA) and working two jobs, as a project worker in learning
       analytics and as an area supervisor. I try to maintain a healthy lifestyle outside of work and study.
       
@@ -64,11 +64,18 @@ education:
       details: |
 
 experiences:
-    - role: Project Worker（プロジェクトワーカー）
+    - role: Project Researcher（プロジェクト研究者）
       time: 2019 - Present
       company: Satakunta UAS, Pori
       details: |
-        My current full-time position at Satakunta University of Applied Sciences. The project I am working in is based on learning analytics and their application.
+        My current position at the University. Now I focus primarily on two researches regarding learning analytics.
+       
+       
+    - role: Project Worker（プロジェクトワーカー）
+      time: 2019 - 2019
+      company: Satakunta UAS, Pori
+      details: |
+        The project I am working in was based on learning analytics and their application.
        
           
     - role: Area Supervisor（エリアスーパーバイザー）
