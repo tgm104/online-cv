@@ -135,16 +135,16 @@ projects:
     assignments:
     
       - title: DocuPortal
-        link: "https://docuportal.samk.fi"
+        link: 
         tagline: "A renewed and better version of the previous Moodle Portal, containing all systems link jumpers and better mobile support."
         
       - title: Moodle Portal
-        link: "https://moodle.samk.fi"
+        link: 
         tagline: "The portal website for the three LMS used by Satakunta UAS. The middle link leads to Moodle3. The portal is also
         used as a gateway for statistics."
 
       - title: Moodle3 LMS
-        link: "https://moodle3.samk.fi"
+        link: 
         tagline: "The new LMS setup by me which is unaccessible without proper credentials (will redirect you to the portal). The 
         credentials are provided by a nationally governed IAM IdP-server via SAML2 protocol."
         
@@ -178,7 +178,7 @@ proficiency:
         level: 90%
         
       - name: Project Management
-        level: 90%
+        level: 80%
         
       - name: Virtual Teams
         level: 100%
