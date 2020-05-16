@@ -4,7 +4,7 @@ sidebar:
 
     # Profile information
     name: Matias Nevaranta
-    tagline: Make an effort
+    tagline: Make an impact
     avatar: skull.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -38,7 +38,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Welcome to my online portfolio!
+      Welcome to my online portfolio! I study and work two jobs.
       
       ようこそ！私はただの一般人。今私は勉強します働きます（二つの仕事)。私は昔に大阪に住みました。私のラインはtgm104。
 
