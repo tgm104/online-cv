@@ -38,7 +38,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Welcome to my online portfolio! I study and work two jobs.
+      Welcome to my online career profile! I study and work two jobs.
       
       ようこそ！私はただの一般人。今私は勉強します働きます（二つの仕事)。私は昔に大阪に住みました。私のラインはtgm104。
 
@@ -58,7 +58,7 @@ education:
       time: 2011 - 2016
       details: |
 
-experiences:
+experience:
     - role: Systems Coordinator（システムコーディネーター）
       time: 2020 - Present
       company: Satakunta UAS, Pori
@@ -99,7 +99,7 @@ experiences:
       company: Relacom Finland Oy, Tampere
       details: |
         
-    - role: Beyond 2013 &amp; Misc
+    - role: Beyond 2013
       details: |
         Beyond 2013 have worked in hospitals, hardware store, linguistics company and as a construction worker. Can operate heavy machinery.
         Also studied construction engineering for a year in 2013-2014 and during my BBA studies I studied IB
