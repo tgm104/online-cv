@@ -111,6 +111,10 @@ projects:
 
     assignments:
     
+      - title: APOA project
+        link: 
+        tagline: "National project aiming to standardize learning analytics in higher education."    
+    
       - title: DocuPortal
         link: 
         tagline: "A renewed and better version of the previous Moodle Portal, containing all systems link jumpers and better mobile support."
@@ -131,13 +135,26 @@ publications:
     intro: |
 
     papers:
+    
+      - title: Tenttivierailu joustavan tenttimisen mahdollistajana 
+        authors: Lempinen, K. & Nevaranta, M.
+        conference: SAMK-SeAMK Research Forum, Seinäjoki, 2020
+        
+      - title: Students' Perceptions about Data Safety and Ethics in Learning Analytics
+        authors: Nevaranta, M., Lempinen, K. & Dr. Kaila, E.
+        conference: Conference on Technology Ethics, Turku, 2020    
+        
+      - title: Osaamismerkit osaamisen tunnistamisen välineiksi työorganisaatiossa
+        authors: Nevaranta, M.
+        conference: Satakunta UAS, 2020
+        
       - title: Insights on the Finnish field of Learning Analytics
         authors: Nevaranta, M., Lempinen, K. & Dr. Kaila, E.
         conference: Asian Conference for Education, Tokyo, 2019
     
       - title: APOA vai apua? Analytiikan mahdollisuudet ja uhat
         authors: Lempinen, K. & Nevaranta, M.
-        conference: SAMK-SeAMK Research Forum, 2019
+        conference: SAMK-SeAMK Research Forum, Pori, 2019
 
       - title: Oppiminen näkyväksi analytiikan avulla (apoa.samk.fi)
         authors: Lempinen, K. & Nevaranta, M.
@@ -158,6 +175,9 @@ proficiency:
         level: 80%
         
       - name: Virtual Teams
+        level: 100%
+        
+      - name: Digital Open Badges
         level: 100%
 
 skills:
