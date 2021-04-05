@@ -4,11 +4,11 @@ sidebar:
 
     # Profile information
     name: Matias Nevaranta
-    tagline: Make an impact
+    tagline: Twitter was a mistake
     avatar: skull.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: matnev@wippies.fi
+    email: 
     phone:
     linkedin: matiasnevaranta
     github: tgm104
@@ -24,7 +24,7 @@ sidebar:
         level: Native
         
       - idiom: Swedish / スウェーデン語
-        level: Professional
+        level: Satisfactory
         
       - idiom: English / 英語
         level: Fluent
@@ -56,6 +56,11 @@ education:
     - degree: BEng in Computer Engineering (工学士、技師）
       university: Satakunta University of Applied Sciences
       time: 2011 - 2016
+      details: |
+
+    - degree: Professional Teacher Education (教師教育）
+      university: Tampere University of Applied Sciences
+      time: 2021 - 2022
       details: |
 
 experiences:
@@ -101,15 +106,18 @@ experiences:
         
     - role: Beyond 2013
       details: |
-        Beyond 2013 have worked in hospitals, hardware store, linguistics company and as a construction worker. Can operate heavy machinery.
-        Also studied construction engineering for a year in 2013-2014 and during my BBA studies I studied IB
-        at Jyväskylä UAS for my first year.
+        Experience in hospitals, hardware store, linguistics company, construction. Can operate heavy machinery.
+        Construction engineering in 2013-2014 at SAMK and IB at JAMK for 2017-2018.
 
 projects:
     title: Projects
     intro: >
 
     assignments:
+    
+      - title: Thesis Management System
+        link: 
+        tagline: "Renewal and integration of digitized thesis process."    
     
       - title: APOA project
         link: 
@@ -136,9 +144,13 @@ publications:
 
     papers:
     
+      - title: Digitilization of Process Management - Challenges of Digitizing A Thesis Process
+        authors: Nevaranta, M.
+        conference: Satakunta UAS, 2021
+    
       - title: Tenttivierailu joustavan tenttimisen mahdollistajana 
         authors: Lempinen, K. & Nevaranta, M.
-        conference: SAMK-SeAMK Research Forum, Seinäjoki, 2020
+        conference: SAMK-SeAMK Research Forum, Seinäjoki, 2021
         
       - title: Students' Perceptions about Data Safety and Ethics in Learning Analytics
         authors: Nevaranta, M., Lempinen, K. & Dr. Kaila, E.
@@ -185,16 +197,16 @@ skills:
 
     toolset:
       - name: Amazon AWS
-        level: 50%
+        level: 40%
         
       - name: Git & GitKraken
-        level: 68%
+        level: 60%
         
       - name: Google Analytics
-        level: 70%
+        level: 75%
     
       - name: UNIX (Budgie, Cent)
-        level: 75%
+        level: 70%
 
       - name: Javascript & NodeJS
         level: 50%
@@ -206,16 +218,16 @@ skills:
         level: 45%
 
       - name: Krita & Photoshop
-        level: 74%
+        level: 89%
         
       - name: AutoCAD
-        level: 50%
+        level: 40%
         
       - name: LMS (Moodle)
         level: 100%
         
       - name: WordPress
-        level: 95%
+        level: 100%
 
 footer: >
     &copy; tgm104 2019 - Bootstrap design made with <i class="fas fa-heart"></i> by Xiaoying Riley
