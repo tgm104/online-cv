@@ -123,13 +123,13 @@ projects:
         link: 
         tagline: "National project aiming to standardize learning analytics in higher education."    
     
-      - title: DocuPortal
+      - title: DocuPortal (Learning Portal)
         link: 
         tagline: "A renewed and better version of the previous Moodle Portal, containing all systems link jumpers and better mobile support."
         
       - title: Moodle Portal
         link: 
-        tagline: "The portal website for the three LMS used by Satakunta UAS. The middle link leads to Moodle3. The portal is also
+        tagline: "The portal website for the three LMS used by SAMK. The middle link leads to Moodle3. The portal is also
         used as a gateway for statistics."
 
       - title: Moodle3 LMS
@@ -146,7 +146,7 @@ publications:
     
       - title: Digitilization of Process Management - Digitizing A Thesis Process
         authors: Nevaranta, M.
-        conference: Satakunta UAS, 2021
+        conference: Satakunta University of Applied Sciences, 2021
     
       - title: Tenttivierailu joustavan tenttimisen mahdollistajana 
         authors: Lempinen, K. & Nevaranta, M.
@@ -158,7 +158,7 @@ publications:
         
       - title: Osaamismerkit osaamisen tunnistamisen välineiksi työorganisaatiossa
         authors: Nevaranta, M.
-        conference: Satakunta UAS, 2020
+        conference: Satakunta University of Applied Sciences, 2020
         
       - title: Insights on the Finnish field of Learning Analytics
         authors: Nevaranta, M., Lempinen, K. & Dr. Kaila, E.
@@ -174,7 +174,7 @@ publications:
 
       - title: Radio networks in difficult locations
         authors: Nevaranta M.
-        conference: Satakunta UAS, 2016
+        conference: Satakunta University of Applied Sciences, 2016
 
 proficiency:
     title: Proficiency
